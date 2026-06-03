@@ -27,7 +27,7 @@ Ensure you have Python 3.7+ installed. You will need the following libraries:
 
 1. **Clone the repository:**
 
-    git clone [https://github.com/yourusername/emy-climate-etl.git](https://github.com/yourusername/emy-climate-etl.git)
+    git clone https://github.com/TsakalParis/EMY_ETL.git
     cd emy-climate-etl
 
 2. **Run the Downloader:**
